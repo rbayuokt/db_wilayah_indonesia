@@ -1,5 +1,4 @@
 <img src="cover.png" style="object-fit:contain;width:100%;height:300px" /><br><br>
-
 database ini berisikan didalamnya :
 
 - [x] tabel provinsi
