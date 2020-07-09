@@ -18,5 +18,4 @@ database ini berisikan didalamnya :
 # Screenshoot
 **PREVIEW TABEL PROVINSI** : <br>
 
-*jika ada cuaca yang cerah*<br><br>
 <img src="db.png" width="300px" /><br><br>
