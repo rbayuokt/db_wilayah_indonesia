@@ -21,3 +21,5 @@ database ini berisikan didalamnya :
 **PREVIEW TABEL PROVINSI** : <br>
 
 <img src="db.png" width="300px" /><br><br>
+
+made with :heart: in Cimahi by [@rbayuokt](https://www.instagram.com/rbayuokt/) :thumbsup:
