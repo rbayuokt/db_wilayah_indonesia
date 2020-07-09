@@ -13,3 +13,10 @@ database ini berisikan didalamnya :
 3. Tunggu beberapa saaat
 4. Selesai
 5. Tinggal di gunakan sesuai kebutuhan
+
+
+# Screenshoot
+**PREVIEW TABEL PROVINSI** : <br>
+
+*jika ada cuaca yang cerah*<br><br>
+<img src="db.png" width="300px" /><br><br>
